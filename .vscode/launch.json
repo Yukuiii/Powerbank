@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-PowerbankApplication<powerbank>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.yukuii.powerbank.PowerbankApplication",
+            "projectName": "powerbank",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
